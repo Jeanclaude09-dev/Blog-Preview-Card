@@ -40,7 +40,7 @@ h1:hover {
 p {
   font-size: 1.4rem;
   line-height: 1.6;
-  margin-bottom: 10px 0 15px 0;
+  margin: 1rem 0 1.5rem 0;
 }
 
 @media (max-width: 37.5em) {
